@@ -347,6 +347,11 @@ a {
     letter-spacing: 0.64px;
 }
 
+.portfolio__button:hover {
+    background: var(--OCEAN, #404BBF);
+    color: var(--WHITE, #FFF);
+}
+
 .portfolio__fotos {
     display: flex;
     flex-wrap: wrap;
