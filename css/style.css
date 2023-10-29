@@ -370,6 +370,13 @@ a {
     background: var(--WHITE, #FFF); 
 }
 
+.portfolio__works {
+    width: 328px;
+    height: 56px;
+    padding-top: 32px;
+    padding-left: 16px;
+}
+
 .portfolio__description {
     color: var(--NAVY-BLUE, #2E2F42);
     font-family: Roboto;
@@ -378,6 +385,7 @@ a {
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.4px;
+    padding-bottom: 8px;
 }
 
 .portfolio__description-of-work {
